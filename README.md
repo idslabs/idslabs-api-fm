@@ -1,7 +1,8 @@
 idslabs-image
 ===============
 
-#Images API Handler
+# Manipulador de API de imagens
+
 Este módulo é proposto para lidar com a manipulação de imagem para uma API ( REST ). Ele usa o MySQL e PostregreSQL com "Doctrine ORM". Este módulo é extensível para usar outro adaptador de banco de dados.
 
 Atualmente, este módulo oferece suporte a esses recursos com a autenticação OAuth2
