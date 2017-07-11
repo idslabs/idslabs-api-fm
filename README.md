@@ -21,5 +21,5 @@ Para recuperar o token de acesso, você pode usar esse recurso POST para o endpo
 
 Dependências
 ------------
-- [doctrine/doctrine-orm-module](https://packagist.org/packages/doctrine/doctrine-orm-module)
-- [zfcampus/zf-oauth2-doctrine](https://packagist.org/packages/zfcampus/zf-oauth2-doctrine)
+- [api-skeletons/zf-doctrine-data-fixture](https://packagist.org/packages/api-skeletons/zf-doctrine-data-fixture) [![Build status](https://api.travis-ci.org/API-Skeletons/zf-doctrine-data-fixture.svg)](http://travis-ci.org/API-Skeletons/zf-doctrine-data-fixture)
+- [api-skeletons/zf-oauth2-doctrine](https://packagist.org/packages/api-skeletons/zf-oauth2-doctrine) [![Build Status](https://travis-ci.org/API-Skeletons/zf-oauth2-doctrine.svg)](https://travis-ci.org/API-Skeletons/zf-oauth2-doctrine)

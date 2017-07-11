@@ -24,7 +24,8 @@ return array(
     ),
     'hydrators' => array(
         'factories' => array(
-            'FileManager\\Image\\Entity\\Hydrator' => 'FileManager\\Image\\Service\\Factory\DoctrineObjectHydratorFactory',
+            'FileManager\\Image\\Entity\\Hydrator' =>
+                'FileManager\\Image\\Service\\Factory\DoctrineObjectHydratorFactory',
         ),
         'shared' => array(
             'FileManager\\Image\\Entity\\Hydrator' => true
